@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Medicine Donation Website",
+    "desc": "Full Stack project to donate medicines to needy one. Build using HTML CSS JQUERY AJAX NODEJS MYSQL DATABASE",
+    "image": "medicine",
+    "category": "NodeJs",
+    "links": {
+      "view": "https://github.com/diksha-yadav-19/Hope_Rx.git"
+    }
+  },
+  {
+    "name": "JobHub",
+    "desc": "For finding latest job opening. Built using React and Firebase.",
+    "image": "jobhub",
+    "category": "MERN",
+    "links": {
+      "view": "https://github.com/diksha-yadav-19/JobHub"
+      
+    }
+  },
+  {
+    "name": "HarvestHelper",
+    "desc": "A smart crop recommendation system providing tailored crop suggestions based on soil, climate, and other factors for optimized farming.",
+    "image": "crop",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/diksha-yadav-19/HarvestHelper"
+    }
+  },
+  {
+    "name": "BookNook",
+    "desc": "BookNook: Your go-to online bookstore for curated book recommendations with easy links to purchase or access free reads.",
+    "image":"Booknook",
+    "category": "MERN",
+    "links": {
+      "view": "https://github.com/diksha-yadav-19/Crop_Recommendation"
+    }
+  },
+  {
+    "name": "Report Creator",
+    "desc": "Developed a Report Creator for a hackathon project utilizing Gemini AI to search and generate precise text and efficiency.",
+    "image": "report creator",
+    "category": "MERN",
+    "links": {
+      "view": "https://github.com/Nitish-Kumar-2/report-creator"
+    }
+  },
+   {
+    "name": "GtoC",
+    "desc": "Direct Farmer to Consumer",
+    "image": "gtc",
+    "category": "MERN",
+    "links": {
+      "view": "https://github.com/diksha-yadav-19/Farmer_Project"
+    }
+  }
+]
